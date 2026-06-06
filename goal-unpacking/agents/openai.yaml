@@ -1,0 +1,5 @@
+interface:
+  display_name: "Goal Unpacking"
+  short_description: "Unpack compressed goals and self-diagnosed needs through short structured questions."
+  default_prompt: "Use $goal-unpacking to help me unpack a compressed goal without jumping to answers."
+
